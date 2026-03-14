@@ -52,17 +52,6 @@ Detailed documentation describing the motivation, approach, and findings of the 
 
 🔗 https://docs.google.com/document/d/1sfpJ9NgLp2OhrtGlJbLxUEs7Oirb0j2g/edit?usp=sharing&ouid=111943710545485582080&rtpof=true&sd=true
 
----
-
-## Repository Structure
-
-```
-token-delisting-risk-model/
-│
-├── token_delisting_risk_model.py
-├── Results.png
-├── README.md
-```
 
 ---
 
